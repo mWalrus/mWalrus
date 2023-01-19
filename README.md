@@ -1,3 +1,1 @@
-Hacking away endlessly :) 
-
-Currently into Rust :crab:
+I do crab language stuff sometimes
