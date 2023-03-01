@@ -13,7 +13,7 @@ I'm self taught in the below languages:
 - HTML
 - CSS
 - Markdown
-- Bash
+- Bash (POSIX)
 
 All languages I have learned either through school or work:
 - TypeScript
