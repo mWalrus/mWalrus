@@ -14,6 +14,7 @@ I'm self taught in the below languages:
 - CSS
 - Markdown
 - Bash (POSIX)
+- C and C++ (basics)
 
 All languages I have learned either through school or work:
 - TypeScript
