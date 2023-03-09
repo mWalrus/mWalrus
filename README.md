@@ -3,7 +3,7 @@
 </p>
 
 # whoami
-Junior software developer by trade. Projects here are developed in my free time mostly for myself :)
+Junior software developer by trade. Projects here are developed in my free time for learning purposes :)
 
 ## Languages
 I'm self taught in the below languages:
